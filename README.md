@@ -21,6 +21,6 @@
 
 
 ### **Diagram**
-![image](https://github.com/Sumit4482/Class_Extension/assets/61246873/a93f4a18-69e1-4e2f-9871-f320dd28fb84)
 
+<img src="https://github.com/Sumit4482/Class_Extension/assets/61246873/a93f4a18-69e1-4e2f-9871-f320dd28fb84" alt="Alt Text" width="200" height="400">
 
